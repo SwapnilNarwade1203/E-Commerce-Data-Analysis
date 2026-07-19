@@ -272,7 +272,7 @@ Open notebooks in the following order:
 MCA Student | Aspiring Data Analyst | Data Engineering Enthusiast
 
 - GitHub: https://github.com/SwapnilNarwade1203
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *https://www.linkedin.com/in/swapnilnarwade1203/*
 
 ---
 
